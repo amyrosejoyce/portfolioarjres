@@ -216,3 +216,10 @@ footer .social-links a:hover {
     text-align: center;
   }
 }
+.balihero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("../media/bali/balihero.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: none;
+}
